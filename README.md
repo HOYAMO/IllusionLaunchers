@@ -16,18 +16,18 @@ Launchers for various Japanese adult games from Illusion
 This launcher allows for different kinds of customization:
 
 ### Versioning
-Create a file named 'version' and place it together with the launcher. The string from that file will appear in the upper right of the launcher.
+Create a file named 'version' and place it together with the launcher.   The string from that file will appear in the upper right of the launcher.
 
 ### Warning message
-Create a folder in UserData named LauncherEN, and place a file named warning.txt file there with the text you want to appear in the notice part of the launcher.
+Create a folder in UserData named LauncherEN, and place a file named warning.   txt file there with the text you want to appear in the notice part of the launcher.
 
 ### Community URL
-Create a folder in UserData named LauncherEN, and place a file named Community.txt there. File should include multiple URL.
+Create a folder in UserData named LauncherEN, and place a file named Community.txt there.   File should include multiple URL.
 If you want to add an image, add a 40*40px size's (name).png   
 ex)Discord | Discord.png | URL   
 ex)Patreon | Patreon.png | URL
 
 ### Supported Languages
-Languages can be switched at any time in the launcher. The following languages are supported:
+Languages can be switched at any time in the launcher.   The following languages are supported:
 
 English, Chinese, Korean, Spanish, Brazilian, French, German and Norwegian (Bokmål)
