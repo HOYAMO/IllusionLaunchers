@@ -23,8 +23,8 @@ Create a folder in UserData named LauncherEN, and place a file named warning.txt
 
 ### Community URL
 Create a folder in UserData named LauncherEN, and place a file named Community.txt there. File should include multiple URL.
-If you want to add an image, add a 40*40px size's (name).png
-ex)Discord | Discord.png | URL
+If you want to add an image, add a 40*40px size's (name).png   
+ex)Discord | Discord.png | URL   
 ex)Patreon | Patreon.png | URL
 
 ### Supported Languages
